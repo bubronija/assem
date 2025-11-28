@@ -1,0 +1,17 @@
+- opcode: LOAD_CONST
+  value: 100
+- opcode: WRITE
+  addr: 5000000
+
+- opcode: LOAD_CONST
+  value: 25
+
+- opcode: SUB
+
+- opcode: WRITE
+  addr: 1024
+
+- opcode: LOAD_CONST
+
+- opcode: READ
+  offset: 50

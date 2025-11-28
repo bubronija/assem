@@ -1,0 +1,10 @@
+- opcode: LOAD_CONST
+  value: 476
+
+- opcode: READ
+  offset: 28
+
+- opcode: WRITE
+  addr: 464
+
+- opcode: SUB
